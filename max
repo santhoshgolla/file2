@@ -1,0 +1,9 @@
+h=int(input())
+n=[]
+for i in range(0,h):
+  ele=int(input())
+print(max(n))
+print(min(n))
+s=sum(n)
+s=s/2
+print(s)
